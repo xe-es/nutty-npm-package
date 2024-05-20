@@ -15,7 +15,10 @@
 		"dist": "ts-node ./dist/main.js"
 	},
 	"keywords": [
-		"jees"
+		"xe-es",
+		"nutty",
+		"npm",
+		"Maysara_Elshewehy"
 	],
 	"author": {
 		"name": "Maysara Elshewehy",
