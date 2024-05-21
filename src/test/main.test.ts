@@ -1,8 +1,8 @@
-import myCode from '../code/main';
+import { HelloWorld } from '../../dist/main';
 
 describe("Basic Tests", () =>
 {
     test("Should be defined !", () => {
-        expect(myCode).toBeDefined();
+        expect(HelloWorld).toBeDefined();
     });
 });
