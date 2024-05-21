@@ -6,10 +6,10 @@
 
 /* ---------------------------------------- PACK ----------------------------------------  */
 
-    import { HelloWorld }                   from './modules/module';
+    import { Dummy }                        from './modules/dummy';
 
-    HelloWorld();
+    Dummy();
 
-    export { HelloWorld };
+    export { Dummy };
 
 /* ---------------------------------------- ---- ----------------------------------------  */

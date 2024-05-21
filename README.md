@@ -1,39 +1,24 @@
 # packName
 
-  packDesc
+>  packDesc.
 
-- ## Install
+- #### 📥 Install
 
     ```Bash
-    npm i packTag                                 #  📥 install
+    npm i packTag
     ```
 
-    ```ts
-    import ? from 'packTag';                      // 📦 import
-    ```
-
-- ## Syntax
+- #### 🌠 Syntax
 
     ```ts
-    ```
-
-- ## Example
-
-    _CODE_
-
-    ```ts
-    ```
-
-    _RESULT_
-
-    ```ts
+    import ? from 'packTag';
     ```
 
 ---
 
 ## Documents
 
-- [API](./src/docs/src/api.md)
+- [Dummy](./src/docs/src/dummy.md)
 
 ---
 
