@@ -17,7 +17,13 @@
 
 ### API
 
-- #### Dummy ( )
+  | Name            | Desc                              |
+  | --------------- | --------------------------------- |
+  | [Dummy](#dummy) | Function to print a dummy message |
+
+---
+
+- #### Dummy
 
     ```ts
     /**
@@ -25,7 +31,7 @@
      *
      * @return {void} This function does not return a value.
     */
-    export const Dummy
+    const Dummy
     = ()
     : void
     ```
